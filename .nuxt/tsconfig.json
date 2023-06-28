@@ -9,64 +9,67 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
+    "baseUrl": "W:/private/bugs/nuxt-vitest-eyy8wd",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
     "types": [
       "node"
     ],
-    "baseUrl": "..",
     "paths": {
       "~": [
-        "."
+        "W:/private/bugs/nuxt-vitest-eyy8wd"
       ],
       "~/*": [
-        "./*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/*"
       ],
       "@": [
-        "."
+        "W:/private/bugs/nuxt-vitest-eyy8wd"
       ],
       "@/*": [
-        "./*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/*"
       ],
       "~~": [
-        "."
+        "W:/private/bugs/nuxt-vitest-eyy8wd"
       ],
       "~~/*": [
-        "./*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/*"
       ],
       "@@": [
-        "."
+        "W:/private/bugs/nuxt-vitest-eyy8wd"
       ],
       "@@/*": [
-        "./*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/*"
       ],
       "assets": [
-        "assets"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/assets"
       ],
       "public": [
-        "public"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/public"
       ],
       "#app": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.16.3/node_modules/nuxt/dist/app"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/node_modules/.pnpm/nuxt@3.6.1_@types+node@20.0.0/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.16.3/node_modules/nuxt/dist/app/*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/node_modules/.pnpm/nuxt@3.6.1_@types+node@20.0.0/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "node_modules/.pnpm/nuxt@3.4.3_@types+node@18.16.3/node_modules/nuxt/dist/app/compat/vue-demi"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/node_modules/.pnpm/nuxt@3.6.1_@types+node@20.0.0/node_modules/nuxt/dist/app/compat/vue-demi"
+      ],
+      "#vue-router": [
+        "W:/private/bugs/nuxt-vitest-eyy8wd/.nuxt/vue-router"
       ],
       "#imports": [
-        ".nuxt/imports"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/.nuxt/imports"
       ],
       "#build": [
-        ".nuxt"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/.nuxt"
       ],
       "#build/*": [
-        ".nuxt/*"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/.nuxt/*"
       ],
       "#components": [
-        ".nuxt/components"
+        "W:/private/bugs/nuxt-vitest-eyy8wd/.nuxt/components"
       ]
     }
   },
