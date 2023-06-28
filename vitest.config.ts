@@ -2,7 +2,6 @@ import { defineVitestConfig } from 'nuxt-vitest/config';
 export default defineVitestConfig({
   test: {
     //watch: true,
-    dir: 'tests',
     coverage: {
       reportsDirectory: 'coverage',
     },
