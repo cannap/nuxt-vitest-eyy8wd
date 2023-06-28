@@ -14,7 +14,8 @@
     "@types/node": "^20",
     "@vitest/ui": "^0.32.2",
     "nuxt": "^3.6.1",
-    "nuxt-vitest": "^0.8.5"
+    "nuxt-vitest": "^0.8.5",
+    "vitest": "^0.32.2"
   },
   "stackblitz": {
     "startCommand": "pnpm vitest run"
